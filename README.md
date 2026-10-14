@@ -1,15 +1,25 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Santiago+Carmona+Cañas;Python+Developer;Construyendo+soluciones+con+tecnolog%C3%ADa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Santiago+Carmona+Cañas;Estudiante+de+SENA;Practicante+en+CINCO+S.A.S" alt="Typing SVG" />
 </p>
 
 <h3 align="center">🚀 Sobre mí</h3>
 
-Soy Santiago Carmona Cañas, desarrollador con enfoque en Python y soluciones tecnológicas prácticas. Me apasiona crear herramientas útiles, automatizar procesos y aprender nuevas formas de resolver problemas con código limpio y eficiente.
+Soy Santiago Carmona Cañas, estudiante del Servicio Nacional de Aprendizaje (SENA) y actualmente estoy desarrollando mis prácticas profesionales en la empresa Compañía Integral Negocios de Colombia S.A.S (CINCO S.A.S). Me apasiona la tecnología, el aprendizaje continuo y la construcción de soluciones útiles mediante el desarrollo de software.
 
-- 💻 Principal stack: Python, automatización, APIs, desarrollo backend
-- 🌱 Aprendiendo: buenas prácticas, arquitectura, optimización y programación escalable
-- 🎯 Objetivo: seguir creciendo como desarrollador y aportar valor con proyectos útiles
-- 💼 LinkedIn: https://www.linkedin.com/in/santiago-carmona-b77529385
+- 🎓 Formación: Tecnólogo / estudiante en SENA
+- 💼 Empresa de prácticas: Compañía Integral Negocios de Colombia S.A.S – CINCO S.A.S
+- 💻 Enfoque: Python, desarrollo de software, automatización, APIs y soluciones digitales
+- 🌱 Aprendiendo: buenas prácticas, arquitectura, optimización y desarrollo escalable
+- 🎯 Objetivo: crecer como desarrollador y aportar valor con proyectos reales
+
+---
+
+<h3 align="center">📌 Actualmente</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SENA-Estudiante-0C9F58?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/CINCO-S.A.S-Practicante-1F6FEB?style=for-the-badge&logo=briefcase&logoColor=white" />
+</p>
 
 ---
 
@@ -44,16 +54,17 @@ Soy Santiago Carmona Cañas, desarrollador con enfoque en Python y soluciones te
 
 <h3 align="center">🌟 Enfoque actual</h3>
 
-- 🔹 Desarrollo con Python y automatización
-- 🔹 APIs y backend con soluciones funcionales
-- 🔹 Mejora continua de calidad, organización y rendimiento
-- 🔹 Aprendizaje constante en tecnologías modernas
+- 🔹 Desarrollo con Python
+- 🔹 APIs y soluciones backend
+- 🔹 Automatización de procesos
+- 🔹 Aprendizaje continuo y mejora profesional
+- 🔹 Aplicación de conocimientos en entorno real de práctica
 
 ---
 
 <h3 align="center">💬 Filosofía</h3>
 
-> “La mejor solución no siempre es la más compleja; es la que resuelve el problema de forma clara, eficiente y sostenible.”
+> “La mejor manera de aprender es construir, practicar y mejorar cada día.”
 
 ---
 
