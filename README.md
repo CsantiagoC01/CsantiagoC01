@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Santiago+Carmona+Cañas;Estudiante+ADSO+en+SENA;Practicante+en+CINCO+S.A.S" alt="Typing SVG" />
-</p>
-
 <h3 align="center">🚀 Sobre mí</h3>
 
 Soy Santiago Carmona Cañas, estudiante del Servicio Nacional de Aprendizaje (SENA) en el programa de Análisis y Desarrollo de Software (ADSO) y actualmente estoy desarrollando mis prácticas profesionales en la empresa Compañía Integral Negocios de Colombia S.A.S (CINCO S.A.S). Me apasiona la tecnología, el aprendizaje continuo y la construcción de soluciones útiles mediante el desarrollo de software.
