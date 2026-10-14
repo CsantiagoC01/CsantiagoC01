@@ -10,7 +10,7 @@
 
 ### 🚀 Sobre mí
 
-Estudiante de **Análisis y Desarrollo de Software (ADSO)** en el SENA, desarrollando actualmente mis prácticas profesionales en **Compañía Integral Negocios de Colombia S.A.S (CINCO S.A.S)**. Enfocado en el desarrollo backend con Python, construcción de APIs REST, automatización de procesos y optimización de software.
+Estudiante de **Análisis y Desarrollo de Software (ADSO)** en el SENA, desarrollando actualmente mis prácticas profesionales en **Compañía Integral Negocios de Colombia S.A.S (CINCO S.A.S)**. Me apasiona la tecnología, el aprendizaje continuo y la creación de soluciones eficientes a través del desarrollo de software.
 
 - 💻 **Enfoque principal:** Python, FastAPI, Node.js y bases de datos SQL.
 - 🌱 **Actualmente aprendiendo:** Arquitectura de software, buenas prácticas y desarrollo escalable.
