@@ -25,7 +25,7 @@ Soy Santiago Carmona Cañas, estudiante del Servicio Nacional de Aprendizaje (SE
 
 ## 🚀 Educación y Certificaciones
 
-*   **Bootcamp en Análisis de Datos (Nivel Básico)** – *Talento Tech (MinTIC)* | 2026
+*   **Bootcamp en Análisis de Datos (Nivel Básico)** – *Talento Tech (MinTIC)* | 2025
     *   **Habilidades clave:** Extracción de datos, limpieza de datos (Data Wrangling), análisis exploratorio (EDA) y visualización de datos.
     *   **Herramientas:** Python (Pandas/NumPy), Excel, Google Colab.
 
