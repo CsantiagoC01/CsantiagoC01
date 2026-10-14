@@ -17,8 +17,8 @@ Soy Santiago Carmona Cañas, estudiante del Servicio Nacional de Aprendizaje (SE
 <h3 align="center">📌 Actualmente</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SENA-Estudiante-0C9F58?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/CINCO-S.A.S-Practicante-1F6FEB?style=for-the-badge&logo=briefcase&logoColor=white" />
+  <img src="https://img.shields.io/badge/SENA-Estudiante-0C9F58?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="SENA Estudiante" />
+  <img src="https://img.shields.io/badge/CINCO%20S.A.S-Practicante-1F6FEB?style=for-the-badge&logo=briefcase&logoColor=white" alt="CINCO S.A.S Practicante" />
 </p>
 
 ---
